@@ -30,8 +30,8 @@ Typing Monsters is a fun game where the player needs to quickly type or click to
 - **Styled Components**: Library for styling React components.
 
 ## Contacts
-**Github**
+#### **Github**
 - [@Zyxxie-creator](https://github.com/Zyxxie-creator)
-**Telegram**
+##### **Telegram**
 -  [@Zyxxie](https://t.me/Zyxxie)
 
