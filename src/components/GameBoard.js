@@ -19,6 +19,7 @@ const GameBoard = () => {
     monsterDamageCoefficient: 1,
     monsterScoreCoefficient: 1,
   });
+  
 
   // Загрузка сохраненного прогресса и генерация монстров
   useEffect(() => {

@@ -12,6 +12,7 @@ const HealthBar = ({ health }) => {
   );
 };
 
+
 // Стили для контейнера здоровья
 const HealthBarContainer = styled.div`
   width: 300px;
