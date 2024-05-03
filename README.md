@@ -1,7 +1,7 @@
 # Typing Monsters
 
 ## Game Description
-Typing Monsters — engaging game where the player needs to quickly type text to defeat the monsters appearing on the screen. The game includes an upgrade system that allows the player to improve their capabilities and achieve greater results.
+Typing Monsters is a fun game where the player needs to quickly type or click to defeat the monsters that appear on the screen. The game has an improvement system that allows the player to improve their capabilities and achieve bet
 
 
 ![Screem](https://i.ibb.co/zZ8q8rx/image.png)
